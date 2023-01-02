@@ -1,5 +1,6 @@
+// prática 004 - lógica de programação
 programa
-{ // prática 004 - lógica de programação
+{
 	
 	funcao inicio()
 	{
@@ -22,9 +23,9 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 106; 
+ * @POSICAO-CURSOR = 14; 
  * @PONTOS-DE-PARADA = ;
- * @SIMBOLOS-INSPECIONADOS = {nome, 6, 9, 4}-{idade, 7, 10, 5}-{peso, 8, 7, 4};
+ * @SIMBOLOS-INSPECIONADOS = {nome, 7, 9, 4}-{idade, 8, 10, 5}-{peso, 9, 7, 4};
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
  * @FILTRO-ARVORE-TIPOS-DE-SIMBOLO = variavel, vetor, matriz, funcao;
  */
