@@ -1,6 +1,6 @@
 /*
  * Lógica de Programação
- * exercício 12 - Crie um algoritmo que pergunte a idade do cliente do banco.
+ * exercício 15 - Crie um algoritmo que pergunte a idade do cliente do banco.
  * Se a idade for inferior a 65 anos, o programa vai exibir uma mensagem de 
  * saudação ao cliente.
  * Se a idade for superior ou igual a 65 anos, o programa também vai exibir
@@ -8,7 +8,7 @@
  */
 programa
 {
-	inclua biblioteca Calendario --> cal
+	inclua biblioteca Calendario --> cal
 	funcao inicio()
 	{
 		inteiro ano, idade
@@ -27,7 +27,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 513; 
+ * @POSICAO-CURSOR = 43; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
