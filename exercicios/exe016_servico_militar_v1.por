@@ -1,6 +1,6 @@
 /*
  * Lógica de Programação
- * exercício 12 - Escreva um programa que pergunte o anos de nascimento
+ * exercício 16 - Escreva um programa que pergunte o anos de nascimento
  * do usuário e calcule a sua idade.
  * Se a idade for menor que 18 anos, informe que ainda não é hora de se
  * alistar. Se a idade for igual ou maior a 18 anos informe que já está
@@ -31,7 +31,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 783; 
+ * @POSICAO-CURSOR = 43; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
