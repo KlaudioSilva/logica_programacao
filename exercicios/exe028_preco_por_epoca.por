@@ -14,7 +14,6 @@ programa
 	{
 		real preco = 0.0, reajPreco = 0.0
 		inteiro opcao = 0
-		cadeia epoca = " ", reaj = " "
 		
 		// cabeçalho
 		escreva("Digite o preço do produto: R$")
@@ -66,7 +65,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 1129; 
+ * @POSICAO-CURSOR = 469; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
