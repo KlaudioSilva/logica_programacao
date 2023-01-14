@@ -9,7 +9,7 @@
  */
 programa
 {
-	inclua biblioteca Matematica --> mat
+	inclua biblioteca Matematica --> mat
 	funcao inicio()
 	{
 		real preco = 0.0, reajPreco = 0.0
@@ -56,7 +56,7 @@ programa
 				escreva("Na época de NATAL, o preço do procuto \ndiminui para R$", mat.arredondar(reajPreco, 2), "\n")
 				pare
 			caso contrario:
-				escreva("Em épocas assim, mantenha o preco do \nproduto em R$", preco, "\n")
+				escreva("Em épocas assim, mantenha o preço do \nproduto em R$", preco, "\n")
 		}
 	}
 }
@@ -65,7 +65,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 469; 
+ * @POSICAO-CURSOR = 2056; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
