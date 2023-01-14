@@ -53,7 +53,7 @@ programa
 				pare
 			caso 5:
 				reajPreco = preco - (preco * 5) / 100
-				escreva("Na época de NATAL, o preço do procuto \ndiminui para R$", mat.arredondar(reajPreco, 2), "\n")
+				escreva("Na época de NATAL, o preço do produto \ndiminui para R$", mat.arredondar(reajPreco, 2), "\n")
 				pare
 			caso contrario:
 				escreva("Em épocas assim, mantenha o preço do \nproduto em R$", preco, "\n")
@@ -65,7 +65,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 2056; 
+ * @POSICAO-CURSOR = 1923; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
